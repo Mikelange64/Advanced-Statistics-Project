@@ -83,6 +83,7 @@ After running the script, the following files will be saved in the outputs/ fold
 ## **Results**
 # **Cumulative Variance Plot**
 This plot shows the cumulative variance explained by the principal components.
+https://github.com/Mikelange64/Advanced-Statistics-Project/blob/main/cumulative_variance_plot.png?raw=true
 # **PCA Scatter Plot**
 The scatter plot visualizes the first two principal components.
 
