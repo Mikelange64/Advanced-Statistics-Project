@@ -73,20 +73,24 @@ After running the script, the following files will be saved in the outputs/ fold
 1. **Cumulative Variance**
 - The first two principal components (PC1 and PC2) explain approximately 67% of the variance.
 - The first three components explain nearly 80% of the variance, as shown in the cumulative variance plot.
-3. **PCA Scatter Plot**
+
+2. **PCA Scatter Plot**
 - Countries are visualized in a reduced 2D space (PC1 vs PC2), showing patterns and relationships based on economic indicators.
-5. **Feature Loadings**
+  
+3. **Feature Loadings**
 - The contributions of original indicators to the principal components are analyzed:
   - GDP (current US$) and Trade (% of GDP) contribute strongly to PC1.
   - Inflation, consumer prices has a smaller influence.
 
 ## **Results**
+
 # **Cumulative Variance Plot**
 This plot shows the cumulative variance explained by the principal components.
-https://github.com/Mikelange64/Advanced-Statistics-Project/blob/main/cumulative_variance_plot.png?raw=true
+![Cumulative Variance](cumulative_variance_plot.png)
+
 # **PCA Scatter Plot**
 The scatter plot visualizes the first two principal components.
-https://github.com/Mikelange64/Advanced-Statistics-Project/blob/main/pca_scatter_plot.png?raw=true
+![PCA Scatter Plot](pca_scatter_plot.png)
 
 ## **Insights**
 - PCA effectively reduced the dimensionality of the dataset while retaining most of the variance.
