@@ -86,6 +86,7 @@ This plot shows the cumulative variance explained by the principal components.
 https://github.com/Mikelange64/Advanced-Statistics-Project/blob/main/cumulative_variance_plot.png?raw=true
 # **PCA Scatter Plot**
 The scatter plot visualizes the first two principal components.
+https://github.com/Mikelange64/Advanced-Statistics-Project/blob/main/pca_scatter_plot.png?raw=true
 
 ## **Insights**
 - PCA effectively reduced the dimensionality of the dataset while retaining most of the variance.
